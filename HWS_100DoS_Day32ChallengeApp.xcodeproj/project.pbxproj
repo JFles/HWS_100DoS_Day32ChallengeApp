@@ -83,6 +83,8 @@
 			dependencies = (
 			);
 			name = HWS_100DoS_Day32ChallengeApp;
+			packageProductDependencies = (
+			);
 			productName = HWS_100DoS_Day32ChallengeApp;
 			productReference = 60B7B75024D237040071C08C /* HWS_100DoS_Day32ChallengeApp.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +113,8 @@
 				Base,
 			);
 			mainGroup = 60B7B74724D237040071C08C;
+			packageReferences = (
+			);
 			productRefGroup = 60B7B75124D237040071C08C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
